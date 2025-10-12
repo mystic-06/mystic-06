@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhruv Sharma</h1>
+<h1 align="center">Hi, I'm Dhruv Sharma</h1>
 <h3 align="center">Full Stack Developer and Linux Enthusiast</h3>
 
 - 🔭 I’m currently working on [quik-type](https://github.com/mystic-06/quik-type)
